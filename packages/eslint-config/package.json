@@ -1,6 +1,6 @@
 {
   "name": "@adamsoderstrom/eslint-config",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "private": false,
   "author": "Adam Söderström",
   "description": "ESLint configuration used by NoA Ignite",
@@ -48,5 +48,6 @@
   },
   "engines": {
     "node": ">=14.0.0"
-  }
+  },
+  "gitHead": "20528dd848ca90137fa75d903201a1a1a62db117"
 }
