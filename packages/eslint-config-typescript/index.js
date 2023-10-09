@@ -14,7 +14,7 @@ module.exports = {
     warnOnUnsupportedTypeScriptVersion: true,
   },
   extends: [
-    '@noaignite/eslint-config',
+    '@adamsoderstrom/eslint-config',
     'plugin:import/typescript',
     'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',

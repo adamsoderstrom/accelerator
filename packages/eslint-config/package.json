@@ -1,8 +1,8 @@
 {
-  "name": "@noaignite/eslint-config",
+  "name": "@adamsoderstrom/eslint-config",
   "version": "0.6.1",
   "private": false,
-  "author": "NoA Ignite",
+  "author": "Adam Söderström",
   "description": "ESLint configuration used by NoA Ignite",
   "keywords": [
     "eslint",
@@ -13,11 +13,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/noaignite/accelerator.git",
+    "url": "https://github.com/adamsoderstrom/accelerator.git",
     "directory": "packages/eslint-config"
   },
   "bugs": {
-    "url": "https://github.com/noaignite/accelerator/issues"
+    "url": "https://github.com/adamsoderstrom/accelerator/issues"
   },
   "scripts": {
     "build": "mkdir build && cp index.js build && yarn build:copy-files",

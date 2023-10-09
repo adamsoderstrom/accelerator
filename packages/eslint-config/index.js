@@ -116,5 +116,7 @@ module.exports = {
     'react/state-in-constructor': 'off',
     // stylistic opinion. For conditional assignment we want it outside, otherwise as static
     'react/static-property-placement': 'off',
+    // disallow default exports
+    'import/prefer-default-export': 'off',
   },
 }

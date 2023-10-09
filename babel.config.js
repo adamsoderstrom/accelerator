@@ -1,8 +1,4 @@
 const defaultAlias = {
-  '@noaignite/formit': './packages/formit/src',
-  '@noaignite/oui': './packages/oui/src',
-  '@noaignite/react-centra-checkout': './packages/react-centra-checkout/src',
-  '@noaignite/utils': './packages/utils/src',
   '/test': './test',
 }
 
