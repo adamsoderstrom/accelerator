@@ -1,6 +1,6 @@
 {
   "name": "@adamsoderstrom/eslint-config",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "private": false,
   "author": "Adam Söderström",
   "description": "ESLint configuration used by NoA Ignite",

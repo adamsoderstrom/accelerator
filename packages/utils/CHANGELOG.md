@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.1](https://github.com/noaignite/accelerator/compare/@adamsoderstrom/utils@4.0.0...@adamsoderstrom/utils@4.0.1) (2023-10-09)
+
+**Note:** Version bump only for package @adamsoderstrom/utils
+
+
+
+
+
 # 4.0.0 (2023-10-09)
 
 

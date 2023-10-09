@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.8.1](https://github.com/adamsoderstrom/accelerator/compare/@adamsoderstrom/eslint-config@0.8.0...@adamsoderstrom/eslint-config@0.8.1) (2023-10-09)
+
+**Note:** Version bump only for package @adamsoderstrom/eslint-config
+
+
+
+
+
 # 0.8.0 (2023-10-09)
 
 
