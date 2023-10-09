@@ -1,6 +1,6 @@
 {
   "name": "@adamsoderstrom/utils",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "private": false,
   "author": "Adam Söderström",
   "description": "Utility functions used by NoA Ignite",

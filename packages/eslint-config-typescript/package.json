@@ -1,6 +1,6 @@
 {
   "name": "@adamsoderstrom/eslint-config-typescript",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "private": false,
   "author": "Adam Söderström",
   "description": "Typescript ESLint configuration used by NoA Ignite",

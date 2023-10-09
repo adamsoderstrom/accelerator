@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.6.0 (2023-10-09)
+
+
+### Bug Fixes
+
+* **changelog:** fix missing changelog causing error ([b9e121e](https://github.com/noaignite/accelerator/commit/b9e121e0e17189a693e08e42186fd98b247b36d7))
+* **import:** remove plugin:import/recommended extend ([097b2ce](https://github.com/noaignite/accelerator/commit/097b2cebb504c2c05a3b678d54b4ecea9938273a))
+
+
+### chore
+
+* **deps:** typescript now a peer dependency ([6a62344](https://github.com/noaignite/accelerator/commit/6a62344e7fc8134d35adc917c86a21a4f2f9b685))
+
+
+### Features
+
+* bump node engine to 14 ([72f5942](https://github.com/noaignite/accelerator/commit/72f594247b275a60b45890efc06d43c1241c6b24))
+* don't use overrides ([f073ead](https://github.com/noaignite/accelerator/commit/f073ead3523d9213b5e54d547b36a012ebdd390c))
+* **eslint:** add new eslint-config-typescript package and remove ts deps from eslint-config ([30baf00](https://github.com/noaignite/accelerator/commit/30baf002a0b9fdb8a5f6cb4b6abf2d578aeab991))
+
+
+### BREAKING CHANGES
+
+* Node 12 is no longer supported as it's no longer maintained
+* **deps:** Typescript is no longer installed as now being a peer dependency. Developers must
+now install typescript separately.
+
+
+
+
+
 # 0.5.0 (2023-10-09)
 
 
